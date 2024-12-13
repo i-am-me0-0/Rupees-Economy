@@ -4,6 +4,26 @@
 
 **Rupees-Economy** adds a unique currency system to Minecraft by introducing Rupees as an in-game currency. This project includes both a **Datapack** and a **Resourcepack**, allowing players to manage a survival-friendly economy system through Rupees. Players can use this system for trading, building economies, and much more. Admins have access to various functions to manage Rupees, and players can carry and trade Rupees using a special wallet.
 
+## Table of Contents
+
+- [Features](#features)
+  - [Rupees Datapack](#rupees-datapack)
+  - [Rupees Resourcepack](#rupees-resourcepack)
+  - [Admin Functions](#admin-functions)
+  - [Rupee Types & Values](#rupee-types--values)
+- [Installation](#installation)
+  - [1. Download the Files](#1-download-the-files)
+  - [2. Install the Datapack](#2-install-the-datapack)
+  - [3. Install the Resourcepack](#3-install-the-resourcepack)
+  - [4. Start Using Rupees](#4-start-using-rupees)
+- [Admin Functions Explained](#admin-functions-explained)
+  - [`0adminmenu`](#0adminmenu)
+  - [`1ofeachrupee`](#1ofeachrupee)
+  - [`atmvillager`](#atmvillager)
+  - [Wallets](#wallets)
+- [Compatibility](#compatibility)
+- [License](#license)
+
 ## Features
 
 ### Rupees Datapack
