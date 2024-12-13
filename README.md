@@ -37,21 +37,21 @@ There are various types of Rupees, each with a different value. The worth of eac
 
 Additionally, there is a special item:
 
-
 ![Wallet](wallet.png)
 
 - **Wallet**: A special item that functions like a bundle, allowing players to store and carry Rupees. The wallet can hold multiple Rupees, and items can be added or removed as needed. It can be obtained through the admin menu.
 
   
-
 ## Installation
 
 ### 1. Download the Files
-- Download the [Rupees Economy Datapack](#) and [Rupees Economy Resourcepack](#).
+- Visit the [Latest Release](https://github.com/i-am-me0-0/Rupees-Economy/releases/latest) page to download the appropriate files:
+  - **[Rupees-Economy Datapack v4.4](https://github.com/i-am-me0-0/Rupees-Economy/releases/download/v1.0/Rupees-Economy-Datapack-v4.4.zip)** (`Rupees-Economy-Datapack-v4.4.zip`)
+  - **[Rupees-Economy Resourcepack v6.2](https://github.com/i-am-me0-0/Rupees-Economy/releases/download/v1.0/Rupees-Economy-Resourcepack-v6.2.zip)** (`Rupees-Economy-Resourcepack-v6.2.zip`)
 
 ### 2. Install the Datapack
 
-1. Navigate to your Minecraft world's `datapacks` folder. You can find it in the world directory: `world_name/datapacks`.
+1. Navigate to your Minecraft world’s `datapacks` folder. You can find it in the world directory: `world_name/datapacks`.
 2. Place the **Rupees Economy Datapack** file here.
 3. Open your Minecraft world and run the `/reload` command to load the datapack.
 
@@ -64,6 +64,7 @@ Additionally, there is a special item:
 ### 4. Start Using Rupees!
 
 Once both the **Datapack** and **Resourcepack** are installed, you should be able to use Rupees in your Minecraft world!
+
 
 ## Admin Functions Explained
 
