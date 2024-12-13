@@ -6,23 +6,25 @@
 
 ## Table of Contents
 
-- [Features](#features)
-  - [Rupees Datapack](#rupees-datapack)
-  - [Rupees Resourcepack](#rupees-resourcepack)
-  - [Admin Functions](#admin-functions)
-  - [Rupee Types & Values](#rupee-types--values)
-- [Installation](#installation)
-  - [1. Download the Files](#1-download-the-files)
-  - [2. Install the Datapack](#2-install-the-datapack)
-  - [3. Install the Resourcepack](#3-install-the-resourcepack)
-  - [4. Start Using Rupees](#4-start-using-rupees)
-- [Admin Functions Explained](#admin-functions-explained)
-  - [`0adminmenu`](#0adminmenu)
-  - [`1ofeachrupee`](#1ofeachrupee)
-  - [`atmvillager`](#atmvillager)
-  - [Wallets](#wallets)
-- [Compatibility](#compatibility)
-- [License](#license)
+- [Rupees-Economy](#rupees-economy)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+    - [Rupees Datapack](#rupees-datapack)
+    - [Rupees Resourcepack](#rupees-resourcepack)
+    - [Admin Functions](#admin-functions)
+    - [Rupee Types \& Values](#rupee-types--values)
+  - [Installation](#installation)
+    - [Download the Files](#download-the-files)
+    - [Install the Datapack](#install-the-datapack)
+    - [Install the Resourcepack](#install-the-resourcepack)
+    - [Start Using Rupees!](#start-using-rupees)
+  - [Admin Functions Explained](#admin-functions-explained)
+    - [`0adminmenu`](#0adminmenu)
+    - [`1ofeachrupee`](#1ofeachrupee)
+    - [`atmvillager`](#atmvillager)
+    - [Wallets](#wallets)
+  - [Compatibility](#compatibility)
+  - [License](#license)
 
 ## Features
 
@@ -64,49 +66,49 @@ Additionally, there is a special item:
   
 ## Installation
 
-### 1. Download the Files
+### Download the Files
 - Visit the [Latest Release](https://github.com/i-am-me0-0/Rupees-Economy/releases/latest) page to download the appropriate files:
-  - **[Rupees-Economy Datapack v4.4](https://github.com/i-am-me0-0/Rupees-Economy/releases/download/v1.0/Rupees-Economy-Datapack-v4.4.zip)** (`Rupees-Economy-Datapack-v4.4.zip`)
-  - **[Rupees-Economy Resourcepack v6.2](https://github.com/i-am-me0-0/Rupees-Economy/releases/download/v1.0/Rupees-Economy-Resourcepack-v6.2.zip)** (`Rupees-Economy-Resourcepack-v6.2.zip`)
+  - **[Rupees-Economy Datapack](https://github.com/i-am-me0-0/Rupees-Economy/releases/download/v1.0/Rupees-Economy-Datapack-v4.4.zip)** (`Rupees-Economy-Datapack-v4.4.zip`)
+  - **[Rupees-Economy Resourcepack](https://github.com/i-am-me0-0/Rupees-Economy/releases/download/v1.0/Rupees-Economy-Resourcepack-v6.2.zip)** (`Rupees-Economy-Resourcepack-v6.2.zip`)
 
-### 2. Install the Datapack
+### Install the Datapack
 
 1. Navigate to your Minecraft world’s `datapacks` folder. You can find it in the world directory: `world_name/datapacks`.
 2. Place the **Rupees Economy Datapack** file here.
 3. Open your Minecraft world and run the `/reload` command to load the datapack.
 
-### 3. Install the Resourcepack
+### Install the Resourcepack
 
 1. Download the **Rupees Economy Resourcepack**.
 2. Move the Resourcepack file to your `resourcepacks` folder in Minecraft.
 3. Go to **Options** > **Resource Packs** in Minecraft and select the **Rupees Economy Resourcepack**.
 
-### 4. Start Using Rupees!
+### Start Using Rupees!
 
 Once both the **Datapack** and **Resourcepack** are installed, you should be able to use Rupees in your Minecraft world!
 
 
 ## Admin Functions Explained
 
-### 1. `0adminmenu`
+### `0adminmenu`
 - **What it does**: Opens an admin menu that allows admins to give Rupees of specific worths. Admins can choose the type and amount of Rupees they wish to give to players.
 - **How to use**: 
-     1. Ensure you are **OP** (administrator) in the Minecraft world.
-     2. Run the command: `/function rupees:0adminmenu`.
+  - Ensure you are **OP** (administrator) in the Minecraft world.
+  - Run the command: `/function rupees:0adminmenu`.
 
-### 2. `1ofeachrupee`
+### `1ofeachrupee`
 - **What it does**: Directly gives 1 of each Rupee type (Green, Orange, Blue, Red, Purple, Grey, Yellow, Gold, Black). The total worth of these Rupees is **888 Green Rupees**.
-- **How to use**: 
-     1. Ensure you are **OP** in the world.
-     2. Open the **admin menu** by running the command `/function rupees:0adminmenu`, then select **1 of Each Rupee**.
+- **How to use**:  
+  - Ensure you are **OP** in the world.  
+  - Open the **admin menu** by running the command `/function rupees:0adminmenu`, then select **1 of Each Rupee**.
 
-### 3. `atmvillager`
+### `atmvillager`
 - **What it does**: Spawns a Villager that acts as an **ATM**. Players can exchange one type of Rupee for another by interacting with this Villager. The Villager exchanges a set amount of one type of Rupee for the corresponding amount of another type.
 - **How to use**: 
-     1. Ensure you are **OP** in the world.
-     2. Run the command: `/function rupees:atmvillager`.
+  - Ensure you are **OP** in the world.
+  - Run the command: `/function rupees:atmvillager`.
 
-### 4. Wallets 
+### Wallets 
 ![Wallet](wallet.png)
 - **Wallet**: A special item that can hold Rupees for the player. The wallet is available through the **admin menu**.
 - **Prefilled Wallet**: A wallet worth **700 Green Rupees**. This option is also available via the **admin menu**.
