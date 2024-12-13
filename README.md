@@ -71,26 +71,25 @@ Once both the **Datapack** and **Resourcepack** are installed, you should be abl
 ### 1. `0adminmenu`
 - **What it does**: Opens an admin menu that allows admins to give Rupees of specific worths. Admins can choose the type and amount of Rupees they wish to give to players.
 - **How to use**: 
-    1. Ensure you are **OP** (administrator) in the Minecraft world.
-    2. Run the command: `/function rupees:0adminmenu`.
+     1. Ensure you are **OP** (administrator) in the Minecraft world.
+     2. Run the command: `/function rupees:0adminmenu`.
 
 ### 2. `1ofeachrupee`
 - **What it does**: Directly gives 1 of each Rupee type (Green, Orange, Blue, Red, Purple, Grey, Yellow, Gold, Black). The total worth of these Rupees is **888 Green Rupees**.
 - **How to use**: 
-    1. Ensure you are **OP** in the world.
-    2. Open the **admin menu** by running the command `/function rupees:0adminmenu`, then select **1 of Each Rupee**.
+     1. Ensure you are **OP** in the world.
+     2. Open the **admin menu** by running the command `/function rupees:0adminmenu`, then select **1 of Each Rupee**.
 
 ### 3. `atmvillager`
 - **What it does**: Spawns a Villager that acts as an **ATM**. Players can exchange one type of Rupee for another by interacting with this Villager. The Villager exchanges a set amount of one type of Rupee for the corresponding amount of another type.
 - **How to use**: 
-    1. Ensure you are **OP** in the world.
-    2. Run the command: `/function rupees:atmvillager`.
+     1. Ensure you are **OP** in the world.
+     2. Run the command: `/function rupees:atmvillager`.
 
 ### 4. Wallets 
 ![Wallet](wallet.png)
 - **Wallet**: A special item that can hold Rupees for the player. The wallet is available through the **admin menu**.
-- **Prefilled Wallet**: A wallet worth **700 Green Rupees**. This option is available via the admin menu.
-- **1 of Each Rupee**: A collection of 1 of each Rupee type, worth **888 Green Rupees** in total. This option is available via the admin menu.
+- **Prefilled Wallet**: A wallet worth **700 Green Rupees**. This option is also available via the **admin menu**.
 
 ## Compatibility
 
