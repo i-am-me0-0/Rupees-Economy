@@ -1,0 +1,76 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/green_rupee"
+        },
+        "threshold": 10
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/orange_rupee"
+        },
+        "threshold": 20
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/blue_rupee"
+        },
+        "threshold": 50
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/red_rupee"
+        },
+        "threshold": 100
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/purple_rupee"
+        },
+        "threshold": 200
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/grey_rupee"
+        },
+        "threshold": 500
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/yellow_rupee"
+        },
+        "threshold": 1000
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gold_rupee"
+        },
+        "threshold": 2000
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/black_rupee"
+        },
+        "threshold": 5000
+      }
+    ]
+  }
+}
